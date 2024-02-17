@@ -107,6 +107,14 @@ export const myProjects = [
       "https://github.com/MohamedGlalAbdelazeem/E-Commerce-for-cars/tree/main",
   },
   {
+    id: 130,
+    categoria: "react",
+    imgUrl: "/projecs/Todolist.png",
+    title: "My_Portfolio",
+    LiveDemo: "https://mohamedgalal2.netlify.app/",
+    RepoLink: "https://github.com/MohamedGlalAbdelazeem/My_Portfolio",
+  },
+  {
     id: 13,
     categoria: "react",
     imgUrl: "/projecs/Todolist.png",
