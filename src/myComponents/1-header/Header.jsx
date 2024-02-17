@@ -38,7 +38,7 @@ const Header = () => {
             }
           }}
         >
-          <span className="icon-settings">as</span>
+         <i className="fa-solid fa-bars-staggered"></i>
         </button>
         <div />
         <nav>
@@ -84,11 +84,13 @@ const Header = () => {
                     padding: "1rem",
                     borderRadius: "50%",
                   }}
-                  className="icon-cross"
+                
                   onClick={() => {
                     setShowModel(false);
                   }}
-                />
+                >
+                  <i className="fa-solid fa-circle-xmark"></i>
+                  </button>
               </li>
               <li>
                 <a href="#abou">About</a>
