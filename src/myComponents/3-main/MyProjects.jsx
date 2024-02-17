@@ -109,7 +109,7 @@ export const myProjects = [
   {
     id: 130,
     categoria: "react",
-    imgUrl: "/public/projecs/My Profile.png",
+    imgUrl: "/public/projecs/MyProfile.png",
     title: "My_Portfolio",
     LiveDemo: "https://mohamedgalal2.netlify.app/",
     RepoLink: "https://github.com/MohamedGlalAbdelazeem/My_Portfolio",
