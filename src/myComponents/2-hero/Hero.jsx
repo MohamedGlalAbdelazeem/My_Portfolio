@@ -58,7 +58,7 @@ const Hero = () => {
         <div id="btns">
           <a
             className="btn"
-            href="https://drive.google.com/file/d/1bL0UkqoijmswHsMlyA4Ha_6g8AJJh6hb/view?usp=sharing" target="_blank"
+            href="https://drive.google.com/drive/folders/1fFTbTGasVivJTXMM0Zt1TxGgBP0GhUo8?usp=sharing" target="_blank"
             rel="noreferrer"
         >
             Download CV<span >
